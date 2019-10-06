@@ -7,4 +7,9 @@ public class UserServiceImpl implements UserService {
         return 0;
     }
 
+    @Override
+    public boolean loginUser(String name) {
+        return false;
+    }
+
 }
