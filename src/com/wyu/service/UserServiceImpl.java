@@ -6,4 +6,5 @@ public class UserServiceImpl implements UserService {
     public int getUserNumber() {
         return 0;
     }
+
 }
