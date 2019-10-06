@@ -10,4 +10,11 @@ public class UserDaoImpl implements UserDao {
     public boolean login() {
         return false;
     }
+
+    @Override
+    public boolean finisherror() {
+        return false;
+    }
+
+
 }
